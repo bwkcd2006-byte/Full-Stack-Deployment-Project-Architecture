@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Studio | E-Commerce Capstone",
+  "description": "A modern, high-performance e-commerce catalog featuring modular architecture, client-side routing, asset optimization, and live deployment configurations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
